@@ -1,5 +1,7 @@
 # Top-20-Basic-Termux-Commands-For-New-Users
 A list of the top 20 essential Termux commands every new user should know. These commands will help you navigate the system, manage files, and perform basic tasks with efficiently.
+![Termux Commands](https://github.com/user-attachments/assets/e32cd3fc-e40a-4758-9294-6ec9acfdae56)
+
 ## Termux Commands
 Here is a list of 20 Termux commands for new users to use Termux comfortably and easily:
 
